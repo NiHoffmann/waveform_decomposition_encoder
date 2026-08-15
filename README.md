@@ -1,4 +1,5 @@
-# Sine-Wave Decomposition Compression
+# Waveform Decomposition Encoder
+
 
 Lossy compression using sine-wave (Fourier) decomposition.
 This Project consists of a Python Playground, aswell as a stand alone C-Library to add to your own project or play around with.
